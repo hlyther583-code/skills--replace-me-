@@ -1,4 +1,4 @@
-1# (replace-me: Exercise title)
+#1(replace-me: Exercise title)
 
 _(replace-me: One-line description of the exercise)_
 
